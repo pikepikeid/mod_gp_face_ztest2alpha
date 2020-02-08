@@ -1,0 +1,2 @@
+# mod_gp_face_ztest2alpha
+GPフェイスの眉のZTest2Alphaを0.2に設定するやつ
